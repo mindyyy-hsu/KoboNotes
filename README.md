@@ -1,7 +1,9 @@
 # KoboNotes - Kobo 筆記整理工具
 
 一個現代化的 Kobo 閱讀筆記整理工具，支援將筆記匯出到 Notion。
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## 功能特色
 
 - 📚 **書架總覽** - 以卡片方式呈現所有書籍，清楚顯示畫線數與筆記數
